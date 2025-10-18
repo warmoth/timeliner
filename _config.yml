@@ -1,14 +1,14 @@
 # Title of the page
-title: "Neil's Life"
+title: "Brian's Life"
 # Your name
-author: Neil Gupta
+author: Brian Warmoth
 # Show a link to LinkedIn in the header intro. Comment out to disable.
-# linkedin: https://www.linkedin.com/in/guptaneil/
+# linkedin: https://www.linkedin.com/in/brianwarmoth/
 # Show a link at the top of your timeline to your main personal site
 # Comment this out to disable
 personal_site:
-  url: https://neil.gg
-  title: neil.gg
+  url: https://warmoth.org/
+  title: warmoth.org
 # show today marker at end of timeline
 show_today: true
 
@@ -16,14 +16,15 @@ show_today: true
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
   - events:
-    - October 1990: "👶 Neil is born in Michigan. Hello world!"
-    - December 1990: "✈️ Neil moves to California."
-    - August 1994: "👶 Neil's sister, Nandini, is born."
-    - February 1995: "💩 Neil splatters poop on his walls while swinging a garbage bag with a dirty diaper. This is his first physics lesson."
-    - December 1997: "🏠 Neil moves to a new home on Christmas. It's 100% less shitty than the last one."
-    - July 1998: "🎬 Neil directs his first action movie using a VHS camcorder and PowerMac 8500."
-    - March 1999: "🕶 The Matrix is released. Neil has to clarify his name isn't Neo for the rest of the decade."
-    - June 1999: "🔥 Neil's internet connection is upgraded from dial-up to 6mbps DSL. He starts tinkering with web development. And Napster."
+    - October 1982: "🌽 Brian is born in Illinois."
+    - August 1999: "🇸🇪 Brian temporarily relocates to Sweden."
+    - July 2000: "🌽 Brian returns to Illinois."
+    - August 2021: "📚 Brian enrolls at the University of Illinois Urbana-Champaign."
+    - April 2004: "🎭 Brian writes and directs his first full-length play."
+    - May 2005: "🎭 Brian writes and directs his second full-length play."
+    - May 2005: "🎓 Brian granduates from the University of Illinois Urbana-Champaign."
+    - November 2023: "🔥 Neil gets a DSLR camera and picks up <a href="https://photos.neil.gg" target="_blank" rel="noopener"
+        title="See some of my photos">photography as a hobby</a>"
   - name: 2000's
     events:
     - October 2000: "🎂 Neil turns 10 as the dot-com bubble collapses. It's a new millennium."
