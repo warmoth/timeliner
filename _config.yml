@@ -16,70 +16,33 @@ show_today: true
 # Each period has a list of events formatted as `- date: title`. If you don't want to have period dividers, leave out the name field.
 periods:
   - events:
-    - October 1982: "🌽 Brian is born in Illinois."
+    - October 1982: "👀 Brian is born in Illinois."
     - August 1999: "🇸🇪 Brian temporarily relocates to Sweden."
-    - July 2000: "🌽 Brian returns to Illinois."
+- name: 2000's
+    events:
+    - July 2000: "🌽 Brian returns to Illinois from Sweden."
     - August 2021: "📚 Brian enrolls at the University of Illinois Urbana-Champaign."
     - April 2004: "🎭 Brian writes and directs his first full-length play."
+    - June 2004: "🗽 Brian interns for and begins contributing to Wizard Magazine."
     - May 2005: "🎭 Brian writes and directs his second full-length play."
-    - May 2005: "🎓 Brian granduates from the University of Illinois Urbana-Champaign."
-    - November 2023: "🔥 Neil gets a DSLR camera and picks up <a href="https://photos.neil.gg" target="_blank" rel="noopener"
-        title="See some of my photos">photography as a hobby</a>"
-  - name: 2000's
+    - May 2005: "🎓 Brian graduates from the University of Illinois Urbana-Champaign."
+    - May 2006: "🗽 Brian moves to New York to work for Wizard Magazine."
+    - December 2007: "🌭 Brian moves to Chicago to work for DDP."
+    - January 2009: "📺 Brian begins contributing daily to MTV News."
+- name: 2010's
     events:
-    - October 2000: "🎂 Neil turns 10 as the dot-com bubble collapses. It's a new millennium."
-    - August 2002: "🎓 Neil starts middle school."
-    - August 2002: "🧮 Neil gets a TI-83 Plus Silver Edition calculator that he uses to program games in BASIC during class."
-    - September 2002: "🏹 Neil earns his Arrow of Light, graduating from a Cub Scout to Boy Scout."
-    - July 2004: "👨‍💻 Neil launches WebScope.tv, a video sharing platform for his friends because YouTube doesn't exist yet."
-    - August 2004: "🎓 Neil starts high school."
-    - December 2005: "👨‍💻 Neil cofounds Amalgam, an online literary magazine, and builds a NoSQL CMS to power it."
-    - September 2006: "👨‍💻 Neil cofounds Metamorphium Design, a profitable web design business."
-    - May 2007: "👨‍💻 Neil joins a sports social network as developer #1. He works out of a literal garage in Silicon Valley."
-    - August 2007: "📱 Neil gets the first iPhone. People make fun of him for spending $600 on a phone."
-    - August 2008: "✈️ Neil moves to Chicago."
-    - November 2009: >-
-        📷 Neil gets a DSLR camera and picks up <a href="https://photos.neil.gg" target="_blank" rel="noopener"
-        title="See some of my photos">photography as a hobby</a>.
-  - name: 2010's
+    - June 2010: "🗯️ Brian begins contributing regularly to ComicsAlliance."
+    - January 2011: "🗞️ Brian enrolls at Northwestern University's Medill School."
+    - June 2011: "🎞️ Brian begins contributing regularly to Independent Film Channel."
+    - December 2011: "🎓 Brian granduates from Northwestern University's Medill School."
+    - January 2012: "🏛️ Brian moves to Washington, D.C."
+    - May 2012: "💼 Brian joins Industry Dive."
+    - January 2014: "💼 Brian joins American City Business Journals' Inno sites."
+    - July 2016: "🌁 Brian moves to the San Francisco Bay Area."
+    - October 2016: "📱 Brian joins OSV."
+- name: 2020's
     events:
-    - June 2010: "✈️ Neil studies abroad in Paris."
-    - October 2010: 🎂 Neil turns 20 amidst the Great Recession.
-    - October 2011: 🏆 Neil becomes a ThinkChicago Fellow.
-    - December 2011: >-
-        💻 Neil works with <a href="https://vimeo.com/33098706" target="_blank" rel="noopener" title="Watch a slideshow of
-        my team's trip to Haiti">Haiti's Ministry of Education, OLPC, and IIT</a> to deploy solar panels, laptops, and servers pre-loaded with
-        Wikipedia in a Haitian school.
-    - May 2012: >-
-        🎓 Neil graduates from Illinois Institute of Technology with degrees in Computer Science & Psychology, a minor in Entrepreneurship,
-        and a specialization in Artificial Intelligence.
-    - June 2012: 👨‍💻 Neil cofounds <a href="https://www.neil.gg/work/tabule" target="_blank">Tabule</a>, a smart student planner powered by AI.
-    - July 2012: >-
-        🎙 Neil does a <a href="https://vimeo.com/45029595" target="_blank" rel="noopener">press conference with Rahm Emanuel</a> about Tabule and
-        Chicago tech. Emanuel says "Chicago needs more Neils." Neil agrees for exactly 3 years.
-    - June 2013: 👨‍💻 Tabule is acqui-hired by Eligo, where Neil builds tools to automate repetitive processes.
-    - August 2014: >-
-        👨‍💻 Neil builds the <a href="https://www.youtube.com/watch?v=oo6b5gZqm0A" target="_blank" rel="noopener" title="Watch the
-        Flocks in action">Flocks</a>, an IoT art installation that reacts to its environment and Twitter. Cisco displays two at their Internet of Things
-        conference.
-    - December 2014: >-
-        👨‍💻 Neil works with Eren Bali to prototype Maven, the operating system for your business.
-    - May 2015: 👨‍💻 Neil joins Instructure to build educational software again.
-    - July 2015: 🤕 Neil gets hit by a bicyclist named Neil G. He wakes up in the hospital with 14 stitches on his face but no new superpowers.
-    - November 2015: 🏠 Neil buys his first home in South Loop.
-    - January 2018: 🤖 Neil builds an AI to manage his home for him.
-    - September 2018: 🛠 Neil turns his second bedroom into a prototyping lab with four 3D printers and a soldering bench.
-    - January 2019: 🏆 Neil receives a grant from Y Combinator to keep building his smart home tech.
-    - April 2019: >-
-        👨‍💻 Neil founds <a href="https://hiome.com" target="_blank" rel="noopener">Hiome</a> to change how we use our homes.
-  - name: 2020's
-    events:
-    - May 2020: >-
-        🦠 Neil launches <a href="https://researchexplained.neil.gg" target="_blank" rel="noopener">Research Explained</a> to make visual
-        summaries of COVID-19 research accessible to anyone.
-    - August 2020: 👨‍💻 Neil joins Guilded to build the community platform for gamers.
-    - October 2020: 🎂 Neil turns 30 in lockdown from a global pandemic.
-    - April 2021: 🏠 Neil moves to a <a href="https://iframe.videodelivery.net/eff74a655073268af5709eb38cd42104" target="_blank" rel="noopener" title="Tour my home">new home</a> in Streeterville.
-    - May 2021: 🐶 Neil's sister adopts <a href="https://photos.neil.gg/wally" target="_blank" title="Meet our beautiful greyhound!">Wally</a>, fulfilling a life-long Gupta sibling dream and granting him unlimited dog time with none of the work.
-    - October 2022: 🏃‍♂️ Neil runs his first 10k race.
-    - April 2024: ✈️ Neil becomes <strike>homeless</strike> a digital nomad, selling his home and most his <a href="https://neil.gg/uses/" target="_blank" title="My daily drivers and favorite things">things</a>.
+    - October 2021: "📱 Brian joins Inside."
+    - July 2023: "💬 Brian co-founds, launches <a href="https://www.aiartifacts.net/" target="_blank" rel="noopener"
+        title="AI Artifacts">The AI Artifacts Podcast</a>."
+    - November 2023: "🛒 Brian joins Digital Commerce 360."
